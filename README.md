@@ -1,6 +1,6 @@
 # Customer Segmentation & Retention Analysis (RFM + Cohorts)
 
-**Author:** Akriti Kushwaha · [LinkedIn](https://www.linkedin.com/in/akritikushwaha) · [GitHub](https://github.com/AkritiTech) · akritikushwahaneha@gmail.com
+**Author:** Akriti Kushwaha · [LinkedIn](https://www.linkedin.com/in/akritikushwaha) · [GitHub](https://github.com/Akritikushwaha214) · akritikushwahaneha@gmail.com
 **Tools:** MySQL 8, Power BI, Python (data preparation only) · **Skills shown:** CTEs, window functions (NTILE, LAG, FIRST_VALUE, ROW_NUMBER), views, RFM scoring, cohort analysis, dashboard design
 
 ![Overview](images/dashboard-overview.png)
